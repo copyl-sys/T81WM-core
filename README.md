@@ -26,6 +26,7 @@ logic visualizations (e.g., color-coding states with "Roygbiv").
 .   .   .
 
 Integration with the Ternary Logic Ecosystem // Why
+
 The ternary ecosystem (HanoiVM, Axion kernel, GAIA/CUDA interface) requires a 3D library that can:
 Visualize Ternary Structures: Render T243 trees or T729 macros as 3D graphs, possibly with color-coded
 states (e.g., -1, 0, 1 as red, green, blue).
