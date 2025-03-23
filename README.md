@@ -1,7 +1,9 @@
 # T81WM-core // What
 Project Looking Glass sources // How
 
-Adaptation in progress. Respect to original author/s.
+Adaptation/Experimentation in progress. Respect to original author/s work.
+
+.   .   .
 
 For the ternary logic ecosystem in 2025, LWJGL is the best choice,
 with jMonkeyEngine as a secondary option for specific tasks:
