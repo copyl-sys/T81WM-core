@@ -1,7 +1,9 @@
 # T81WM-core // What
 Project Looking Glass sources // How
 
-Adaptation/Experimentation in progress. Respect to original author/s work.
+Adaptation/Experimentation in progress. 
+All Respects to original author/s work.
+This is derivitive and completely dependant upon its forefathers-mothers authorship.
 
 .   .   .
 
